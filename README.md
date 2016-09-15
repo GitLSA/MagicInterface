@@ -1,2 +1,2 @@
 # MagicInterface
-Пример с nil интерфейсом
+GOLANG Пример с nil интерфейсом
